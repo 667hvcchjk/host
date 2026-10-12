@@ -1,1 +1,1 @@
-col-degree-motivation-just.trycloudflare.com
+essays-papers-api-demo.trycloudflare.com
